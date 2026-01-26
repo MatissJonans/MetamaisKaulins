@@ -21,3 +21,8 @@ Funkcionālās prasības
 6. Rezultātu skata ielāde.
 	Kad kauliņi ir uzmesti divas reizes parādās "Rezultāti" poga
 	Pogu nospiežot tiek atklāti abu spēlētāju punktu skaiti un pateikts uzvarētājs.
+Nefunkcionālās prasības
+1. Programmu paredzēts darbināt uz datora, kas aprīkots ar operētājsistēmu Windows 10 vai jaunāku tās versiju.
+2. Programmu paredzēts atvērt 600x300 logā.
+3. Programmu paredzēt veidot ar vienkāršu, saskaņotam dizainu, kas papildināts ar metamā kauliņa attēliem.
+4. Programmas lietošanas laikā iespējams lietot minimizēšanas, maksimizēšanas un aiztaisīšanas pogas.
