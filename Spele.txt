@@ -1,0 +1,23 @@
+Apraksts
+
+Spēli spēlē divi spēlētāji ar 3 metamajiem kauliņiem. Spēlētājs vienlaikus met visus kauliņus, saskaita uzmestos skaitļus kopā un iegūst punktu skaitu. 
+To pašu dara otrs spēlētājs. Spēlētājs kurš iegūst leilāko punktu skaitu uzvar.
+Lai sāktu spēli spiež pogu "Mest". Metamie kauliņi tiek vizuāli parādīti un punkti tiek saskaitīti un parādīti uz ekrāna.
+Spiežot pogu ''Mest'' vēlreiz, metamie kauliņi tiek mesti vēlreiz un iegūtie punkti tiek saskaitīti un piešķirti otrajam spēlētājam. 
+Spiežot pogu "Rezultāti" tiek parādīti abu spēlētāju punktu skaiti un atklāts uzvarētājs.
+
+Funkcionālās prasības
+
+1. Noteikumu ielāde.
+	Nosaukums redzams loga augšā, pirms pogas "Mest" nospiešanas.
+2. Metamo kauliņu ielāde.
+	Metamie kauliņi ir redzami loga centrā un tiek mainīti lai sakristu ar uzmesto rezultātu pēc pogas "Mest" nospiešanas.
+3. Pogas ''Mest" ielāde.
+	Poga "Mest" atrodas loga apakšā.
+4. Kauliņu nejauša uzmešana pēc "Mest" pogas nospiešanas.
+5. Punktu saskaitīšana un parādīšana.
+	Kad kauliņi ir uzmesti rezultāts tiek saskaitīts
+	Rezultāts tiek izrakstīts logā noteikumu uzraksta vietā.
+6. Rezultātu skata ielāde.
+	Kad kauliņi ir uzmesti divas reizes parādās "Rezultāti" poga
+	Pogu nospiežot tiek atklāti abu spēlētāju punktu skaiti un pateikts uzvarētājs.
