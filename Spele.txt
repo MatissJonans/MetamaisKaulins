@@ -6,6 +6,7 @@ Lai sāktu spēli spiež pogu "Mest". Metamie kauliņi tiek vizuāli parādīti 
 Spiežot pogu ''Mest'' vēlreiz, metamie kauliņi tiek mesti vēlreiz un iegūtie punkti tiek saskaitīti un piešķirti otrajam spēlētājam. 
 Spiežot pogu "Rezultāti" tiek parādīti abu spēlētāju punktu skaiti un atklāts uzvarētājs.
 
+
 Funkcionālās prasības
 
 1. Noteikumu ielāde.
@@ -21,8 +22,44 @@ Funkcionālās prasības
 6. Rezultātu skata ielāde.
 	Kad kauliņi ir uzmesti divas reizes parādās "Rezultāti" poga
 	Pogu nospiežot tiek atklāti abu spēlētāju punktu skaiti un pateikts uzvarētājs.
+
 Nefunkcionālās prasības
+
 1. Programmu paredzēts darbināt uz datora, kas aprīkots ar operētājsistēmu Windows 10 vai jaunāku tās versiju.
 2. Programmu paredzēts atvērt 600x300 logā.
 3. Programmu paredzēt veidot ar vienkāršu, saskaņotam dizainu, kas papildināts ar metamā kauliņa attēliem.
 4. Programmas lietošanas laikā iespējams lietot minimizēšanas, maksimizēšanas un aiztaisīšanas pogas.
+
+
+Testpiemēru kopa
+
+Klikšķis uz spēles palaišanas ikonas.
+	Programas logs atveras.
+	Virsraksta joslā redzams uzraksts “MetamaisKauliņš2”.
+	Redzama aktīva programmas minimizēšanas poga.
+	Redzama aktīva programmas maksimizēšanas poga .
+	Redzama aktīva programmas aizvēršanas poga .
+	Ekrānā redzami noteikumi.
+	Ekrānā redzami metamie kauliņi.
+	Ekrānā redzama “Mest” poga.
+Nospiežot “Mest” pogu.
+	Pazzūd noteikumu uzraksts.
+	Redzama 1. spēlētāja punktu summa.
+Metamie kauliņi nomainās atbilstoši metiena rezultātam.
+	Ekrānā redzama “Mest” poga.
+Nospiežot “Mest” pogu otro reizi.
+	Pazzūd 1. spēlētāja punktu summa.
+	Redzama 2. spēlētāja punktu summa.
+Metamie kauliņi nomainās atbilstoši metiena rezultātam.
+	Ekrānā redzama “Rezultāti” poga.
+Nospiežot “Rezultāti” pogu.
+	Redzams 1. spēlētāja rezultāts.
+Redzams 2. spēlētāja rezultāts.
+	Redzams uzvarētājs.
+	Uzvarētājs ir spēlētājs ar lielāko punktu skaitu.
+Abiem spēlētājiem ir vienāds punktu skaits.
+	Redzams uzraksts “Neizšķirts”.
+Vienmēr
+	Nospiežot loga minimizēšanas pogu logs minimizējas.
+	Nospiežot loga maksimizēšanas pogu logs maksimizējas
+	Nospiežot loga aizvēršanas pogu logs aizveras.
