@@ -21,7 +21,7 @@ Funkcionālās prasības
 	Rezultāts tiek izrakstīts logā noteikumu uzraksta vietā.
 6. Rezultātu skata ielāde.
 	Kad kauliņi ir uzmesti divas reizes parādās "Rezultāti" poga
-	Pogu nospiežot tiek atklāti abu spēlētāju punktu skaiti un pateikts uzvarētājs.
+	Pogu nospiežot tiek atklāti abu spēlētāju punktu skaiti un atklāts uzvarētājs.
 
 Nefunkcionālās prasības
 
@@ -35,7 +35,7 @@ Testpiemēru kopa
 
 Klikšķis uz spēles palaišanas ikonas.
 	Programas logs atveras.
-	Virsraksta joslā redzams uzraksts “MetamaisKauliņš2”.
+	Virsraksta joslā redzams uzraksts “Metamais kauliņš spēle”.
 	Redzama aktīva programmas minimizēšanas poga.
 	Redzama aktīva programmas maksimizēšanas poga .
 	Redzama aktīva programmas aizvēršanas poga .
@@ -54,7 +54,7 @@ Metamie kauliņi nomainās atbilstoši metiena rezultātam.
 	Ekrānā redzama “Rezultāti” poga.
 Nospiežot “Rezultāti” pogu.
 	Redzams 1. spēlētāja rezultāts.
-Redzams 2. spēlētāja rezultāts.
+	Redzams 2. spēlētāja rezultāts.
 	Redzams uzvarētājs.
 	Uzvarētājs ir spēlētājs ar lielāko punktu skaitu.
 Abiem spēlētājiem ir vienāds punktu skaits.
